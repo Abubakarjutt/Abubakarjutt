@@ -9,3 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do not have a computer science background in education.
 -->
+
+### Connect With me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/muhammad-abubakar-683bbab9/" />][linkedin]
