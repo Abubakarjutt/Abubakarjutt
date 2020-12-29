@@ -12,5 +12,5 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/muhammad-abubakar-683bbab9" />][linkedin]
 
-<img align="left" | LinkedIn" width="22px" src="https://www.linkedin.com/muhammad-abubakar-683bbab9/" />
