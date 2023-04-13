@@ -1,6 +1,6 @@
 ### Hi there 👋 This is what I am working on!
 
-- 🔭 I’m currently working on AI Assited Medical Diagnosis
+- 🔭 I’m currently working on data analysis on large datasets by levering ML models.
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 🤔 I’m looking for help with Web APIs
