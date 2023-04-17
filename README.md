@@ -16,10 +16,7 @@ Skills: Python / Tensorflow / PyTorch / NLP / ML
 <a href="https://twitter.com/DS4dummies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DS4dummies" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-abubakar-683bbab9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abubakar-683bbab9" height="30" width="40" /></a>
 </p>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abubakarjutt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-abubakar-683bbab9//)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarjutt)](https://github.com/anuraghazra/github-readme-stats)
 
