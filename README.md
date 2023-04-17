@@ -1,6 +1,6 @@
 ### Hi there 👋, Muhammad Abubakar
 #### I am a Data Scientist | ML Engineer
-![I am a Data Scientist | ML Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Data Scientist | ML Engineer]()
 
 A lifelong learner and problem solver, I have always been fascinated by the power of data and technology. My passion for machine learning and artificial intelligence led me to pursue a Master's degree in Data Science, where I deepened my understanding of these cutting-edge technologies and their applications. With a diverse background in Finance and Data Science, I bring a unique perspective to the field of ML and AI, combining technical expertise with real-world experience to drive innovative solutions. As a driven and dedicated professional, I am eager to make a positive impact in this exciting field and continue to grow as a data scientist. Connect with me to learn more about my work and how we can work together to shape the future of AI.
 
