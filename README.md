@@ -27,7 +27,7 @@ Skills: Python / Tensorflow / PyTorch / NLP / ML
 
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarjutt)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarjutt&show_icons=&theme=dark&locale=en)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarjutt&show_icons=true&theme=dark&locale=en)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abubakarjutt)  
 
