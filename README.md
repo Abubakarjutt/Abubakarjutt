@@ -33,6 +33,6 @@ Skills: Python / Tensorflow / PyTorch / NLP / ML
 
 ![GitHub metrics](https://metrics.lecoq.io/abubakarjutt)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abubakarjutt)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abubakarjutt&show_icons=true&theme=dark&locale=en)  
 
 
