@@ -29,9 +29,7 @@ Skills: Python / Tensorflow / PyTorch / NLP / ML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarjutt&show_icons=true&theme=dark&locale=en)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abubakarjutt)  
-
-![GitHub metrics](https://metrics.lecoq.io/abubakarjutt)  
+![GitHub metrics](https://metrics.lecoq.io/abubakarjutt&show_icons=true&theme=dark&locale=en)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abubakarjutt&show_icons=true&theme=dark&locale=en)  
 
